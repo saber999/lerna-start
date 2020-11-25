@@ -1,6 +1,6 @@
 {
   "name": "test2",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "> TODO: description",
   "author": "jonegong <jonegong@tencent.com>",
   "homepage": "https://github.com/saber999/lerna-start#readme",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/saber999/lerna-start/issues"
   },
-  "gitHead": "9eee1861c3270fc912d136bc52861f1288a91255"
+  "gitHead": "21d69c5f39ea6e003ac8d309b383a65983958332"
 }
