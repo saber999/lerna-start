@@ -1,4 +1,5 @@
 {
+  
   "name": "test3",
   "version": "0.0.1-alpha.0",
   "description": "> TODO: description",
@@ -22,5 +23,6 @@
   },
   "bugs": {
     "url": "https://github.com/saber999/lerna-start/issues"
-  }
+  },
+  "gitHead": "9eee1861c3270fc912d136bc52861f1288a91255"
 }
